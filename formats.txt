@@ -565,9 +565,7 @@
 	<set>FLI</set>
 	<set>CST</set>
 	<set>SMBSP</set>
-	<set>TK9</set>
 	<set>TK10</set>
-	<set>M5</set>
 	<set>M6</set>
 </format>
 
