@@ -554,4 +554,21 @@
 	<set>M6</set>
 </format>
 
+<format>
+	<label>(2018-2019) Standard-SM-on</label>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CST</set>
+	<set>SMBSP</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>M5</set>
+	<set>M6</set>
+</format>
+
 </formatdefinitions>
