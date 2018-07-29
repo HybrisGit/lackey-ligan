@@ -1,0 +1,4 @@
+THIS IS A FAN-MADE UPDATE OF THE 'pokemon' PLUGIN FOR THE 'LackeyCCG' APPLICATION
+
+The intention of this repository is to share updated card images, set lists, decks etc.
+We do not claim to own anything related to the original 'pokemon' plugin, 'LackeyCCG' application or 'Pokémon' franchise.

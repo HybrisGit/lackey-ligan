@@ -1,0 +1,79 @@
+Name	Set	ImageFile	Set #	Type	Stage	HP	Weakness	Resistance	Retreat Cost	Rarity	Text
+Malamar (FLI)	FLI	malamar
+Inkay (FLI)	FLI	inkay
+Zygarde-GX (FLI)	FLI	zygarde_gx
+Buzzwole (FLI)	FLI	buzzwole
+Froakie (FLI)	FLI	froakie
+Frogadier (FLI)	FLI	frogadier
+Greninja-GX (FLI)	FLI	greninja_gx
+Ultra Necrozma-GX (FLI)	FLI	ultra_necrozma_gx
+Beast Ring (FLI)	FLI	beast_ring
+Rockruff (FLI)	FLI	rockruff
+Beast Energy (FLI)	FLI	beast_energy
+Mysterious Treasure (FLI)	FLI	mysterious_treasure
+Diantha (FLI)	FLI	diantha
+Diancie Prism Star (FLI)	FLI	diancie_prism_star
+Poipole (FLI)	FLI	poipole
+Naganadel-GX (FLI)	FLI	naganadel_gx
+Unit Energy FDF (FLI)	FLI	unit_energy_fdf
+Dusk Mane Necrozma (FLI)	FLI	dusk_mane_necrozma
+Ultra Space (FLI)	FLI	ultra_space
+Zygarde (FLI)	FLI	zygarde_peacemaker
+Volcanion Prism Star (FLI)	FLI	volcanion_prism_star
+Ultra Recon Squad (FLI)	FLI	ultra_recon_squad
+Bonnie (FLI)	FLI	bonnie
+Zygarde_72 (FLI)	FLI	zygarde-72
+Pheromosa (FLI)	FLI	pheromosa
+Altaria-GX (CST)	CST	altaria_gx
+Bagon (CST)	CST	bagon
+Banette (CST)	CST	banette
+Banette-GX (CST)	CST	banette_gx
+Beldum (CST)	CST	beldum_1
+Beldum (CST)	CST	beldum_2
+Blaziken (CST)	CST	blaziken
+Blaziken-GX (CST)	CST	blaziken_gx
+Celesteela (CST)	CST	celesteela
+Combusken (CST)	CST	combusken
+Crisis Potion (CST)	CST	crisis_potion
+Deoxys (CST)	CST	deoxys
+Dunsparce (CST)	CST	dunsparce
+Electrode-GX (CST)	CST	electrode_gx
+Forbidden Shrine (CST)	CST	forbidden_shrine
+Friend Ball (CST)	CST	friend_ball
+Grovyle (CST)	CST	grovyle
+Hussle Belt (CST)	CST	hussle_belt
+Jirachi Prism Star (CST)	CST	jirachi_prism_star
+Latias Prism Star (CST)	CST	latias_prism_star
+Latios Prism Star (CST)	CST	latios_prism_star
+Lisia (CST)	CST	lisia
+Magcargo (CST)	CST	magcargo
+Marshtomp (CST)	CST	marshtomp
+Metagross (CST)	CST	metagross
+Metang (CST)	CST	metang
+Mudkip (CST)	CST	mudkip
+Nuzleaf (CST)	CST	nuzleaf
+Rainbow Brush (CST)	CST	rainbow_brush
+Rayquaza-GX (CST)	CST	rayquaza_gx
+Regirock (CST)	CST	regirock
+Sableye (CST)	CST	sableye
+Salamence (CST)	CST	salamence
+Salamence_GX (CST)	CST	salamence_gx
+Sceptile (CST)	CST	sceptile
+Seedot (CST)	CST	seedot
+shelgon (CST)	CST	shelgon
+Shiftry-GX (CST)	CST	shiftry_gx
+Shuppet (CST)	CST	shuppet
+Sky Pillar (CST)	CST	sky_pillar
+Slugma (CST)	CST	slugma
+Sneasel (CST)	CST	sneasel 
+Stakataka-GX (CST)	CST	stakataka_gx
+Steven's Decision (CST)	CST	stevens_decision
+Swampert (CST)	CST	swampert
+Tate and Liza (CST)	CST	tate_and_liza
+Torchic (CST)	CST	torchic
+Treecko (CST)	CST	treecko
+Copycat (CST)	CST	copycat
+Drampa (CST)	CST	drampa
+Kingdra-GX (CST)	CST	kingdra_gx
+Wooper (CST)	CST	wooper
+Quagsire (CST)	CST	quagsire

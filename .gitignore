@@ -1,0 +1,28 @@
+#root files
+recentdecks.txt
+recentcardpools.txt
+plugininfo.txt
+pluginpreferences.txt
+uninstall.txt
+updatelist.txt
+version.txt
+bot.jpg
+cardback.jpg
+spawned.jpg
+
+#root folders
+decks
+cardpools
+images
+packs
+saved
+
+#set carddata
+sets/carddata.txt
+sets/carddata2.txt
+
+#ignore all set images by default
+sets/setimages/*
+#don't ignore these set images
+!sets/setimages/FLI
+!sets/setimages/CST
