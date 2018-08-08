@@ -1,79 +1,81 @@
 Name	Set	ImageFile	Set #	Type	Stage	HP	Weakness	Resistance	Retreat Cost	Rarity	Text
-Malamar (FLI)	FLI	malamar
-Inkay (FLI)	FLI	inkay
-Zygarde-GX (FLI)	FLI	zygarde_gx
-Buzzwole (FLI)	FLI	buzzwole
-Froakie (FLI)	FLI	froakie
-Frogadier (FLI)	FLI	frogadier
-Greninja-GX (FLI)	FLI	greninja_gx
-Ultra Necrozma-GX (FLI)	FLI	ultra_necrozma_gx
-Beast Ring (FLI)	FLI	beast_ring
-Rockruff (FLI)	FLI	rockruff
-Beast Energy (FLI)	FLI	beast_energy
-Mysterious Treasure (FLI)	FLI	mysterious_treasure
-Diantha (FLI)	FLI	diantha
-Diancie Prism Star (FLI)	FLI	diancie_prism_star
-Poipole (FLI)	FLI	poipole
-Naganadel-GX (FLI)	FLI	naganadel_gx
-Unit Energy FDF (FLI)	FLI	unit_energy_fdf
-Dusk Mane Necrozma (FLI)	FLI	dusk_mane_necrozma
-Ultra Space (FLI)	FLI	ultra_space
-Zygarde (FLI)	FLI	zygarde_peacemaker
-Volcanion Prism Star (FLI)	FLI	volcanion_prism_star
-Ultra Recon Squad (FLI)	FLI	ultra_recon_squad
-Bonnie (FLI)	FLI	bonnie
-Zygarde_72 (FLI)	FLI	zygarde-72
-Pheromosa (FLI)	FLI	pheromosa
-Altaria-GX (CST)	CST	altaria_gx
-Bagon (CST)	CST	bagon
-Banette (CST)	CST	banette
-Banette-GX (CST)	CST	banette_gx
-Beldum (CST)	CST	beldum_1
-Beldum (CST)	CST	beldum_2
-Blaziken (CST)	CST	blaziken
-Blaziken-GX (CST)	CST	blaziken_gx
-Celesteela (CST)	CST	celesteela
-Combusken (CST)	CST	combusken
-Crisis Potion (CST)	CST	crisis_potion
-Deoxys (CST)	CST	deoxys
-Dunsparce (CST)	CST	dunsparce
-Electrode-GX (CST)	CST	electrode_gx
-Forbidden Shrine (CST)	CST	forbidden_shrine
-Friend Ball (CST)	CST	friend_ball
-Grovyle (CST)	CST	grovyle
-Hussle Belt (CST)	CST	hussle_belt
-Jirachi Prism Star (CST)	CST	jirachi_prism_star
-Latias Prism Star (CST)	CST	latias_prism_star
-Latios Prism Star (CST)	CST	latios_prism_star
-Lisia (CST)	CST	lisia
-Magcargo (CST)	CST	magcargo
-Marshtomp (CST)	CST	marshtomp
-Metagross (CST)	CST	metagross
-Metang (CST)	CST	metang
-Mudkip (CST)	CST	mudkip
-Nuzleaf (CST)	CST	nuzleaf
-Rainbow Brush (CST)	CST	rainbow_brush
-Rayquaza-GX (CST)	CST	rayquaza_gx
-Regirock (CST)	CST	regirock
-Sableye (CST)	CST	sableye
-Salamence (CST)	CST	salamence
-Salamence_GX (CST)	CST	salamence_gx
-Sceptile (CST)	CST	sceptile
-Seedot (CST)	CST	seedot
-shelgon (CST)	CST	shelgon
-Shiftry-GX (CST)	CST	shiftry_gx
-Shuppet (CST)	CST	shuppet
-Sky Pillar (CST)	CST	sky_pillar
-Slugma (CST)	CST	slugma
-Sneasel (CST)	CST	sneasel 
-Stakataka-GX (CST)	CST	stakataka_gx
-Steven's Decision (CST)	CST	stevens_decision
-Swampert (CST)	CST	swampert
-Tate and Liza (CST)	CST	tate_and_liza
-Torchic (CST)	CST	torchic
-Treecko (CST)	CST	treecko
-Copycat (CST)	CST	copycat
-Drampa (CST)	CST	drampa
-Kingdra-GX (CST)	CST	kingdra_gx
-Wooper (CST)	CST	wooper
-Quagsire (CST)	CST	quagsire
+Malamar (FLI)	FLI	malamar			Stage 1
+Inkay (FLI)	FLI	inkay			Basic
+Zygarde-GX (FLI)	FLI	zygarde_gx			Basic (GX)
+Buzzwole (FLI)	FLI	buzzwole			Basic
+Froakie (FLI)	FLI	froakie			Basic
+Frogadier (FLI)	FLI	frogadier			Stage 1
+Greninja-GX (FLI)	FLI	greninja_gx			Stage 2 (GX)
+Ultra Necrozma-GX (FLI)	FLI	ultra_necrozma_gx			Basic (GX)
+Beast Ring (FLI)	FLI	beast_ring			Trainer - Item
+Rockruff (FLI)	FLI	rockruff			Basic
+Beast Energy (FLI)	FLI	beast_energy			Energy - Special
+Mysterious Treasure (FLI)	FLI	mysterious_treasure			Trainer - Item
+Diantha (FLI)	FLI	diantha			Trainer - Supporter
+Diancie Prism Star (FLI)	FLI	diancie_prism_star			Basic
+Poipole (FLI)	FLI	poipole			Basic
+Naganadel-GX (FLI)	FLI	naganadel_gx			Stage 1 (GX)
+Unit Energy FDF (FLI)	FLI	unit_energy_fdf			Energy - Special
+Dusk Mane Necrozma (FLI)	FLI	dusk_mane_necrozma			Basic
+Ultra Space (FLI)	FLI	ultra_space			Trainer - Stadium
+Zygarde (FLI)	FLI	zygarde_peacemaker			Basic
+Volcanion Prism Star (FLI)	FLI	volcanion_prism_star			Basic
+Ultra Recon Squad (FLI)	FLI	ultra_recon_squad			Trainer - Supporter
+Bonnie (FLI)	FLI	bonnie			Trainer - Supporter
+Zygarde_72 (FLI)	FLI	zygarde-72			Basic
+Pheromosa (FLI)	FLI	pheromosa			Basic
+Altaria-GX (CST)	CST	altaria_gx			Stage 1 (GX)
+Bagon (CST)	CST	bagon			Basic
+Banette (CST)	CST	banette			Stage 1
+Banette-GX (CST)	CST	banette_gx			Stage 1 (GX)
+Beldum (CST)	CST	beldum_1			Basic
+Beldum (CST)	CST	beldum_2			Basic
+Blaziken (CST)	CST	blaziken			Stage 2
+Blaziken-GX (CST)	CST	blaziken_gx			Stage 2 (GX)
+Celesteela (CST)	CST	celesteela			Basic
+Combusken (CST)	CST	combusken			Stage 1
+Crisis Potion (CST)	CST	crisis_potion			Trainer - Item
+Deoxys (CST)	CST	deoxys			Basic
+Dunsparce (CST)	CST	dunsparce			Basic
+Electrode-GX (CST)	CST	electrode_gx			Stage 1 (GX)
+Forbidden Shrine (CST)	CST	forbidden_shrine			Trainer - Stadium
+Friend Ball (CST)	CST	friend_ball			Trainer - Item
+Grovyle (CST)	CST	grovyle			Stage 1
+Hussle Belt (CST)	CST	hussle_belt			Trainer - Item - Pokemon Tool
+Jirachi Prism Star (CST)	CST	jirachi_prism_star			Basic
+Latias Prism Star (CST)	CST	latias_prism_star			Basic
+Latios Prism Star (CST)	CST	latios_prism_star			Basic
+Lisia (CST)	CST	lisia			Trainer - Supporter
+Magcargo (CST)	CST	magcargo			Stage 1
+Marshtomp (CST)	CST	marshtomp			Stage 2
+Metagross (CST)	CST	metagross			Stage 2
+Metang (CST)	CST	metang			Stage 1
+Mudkip (CST)	CST	mudkip			Basic
+Nuzleaf (CST)	CST	nuzleaf			Stage 1
+Rainbow Brush (CST)	CST	rainbow_brush			Trainer - Item
+Rayquaza-GX (CST)	CST	rayquaza_gx			Basic (GX)
+Regirock (CST)	CST	regirock			Basic
+Sableye (CST)	CST	sableye			Basic
+Salamence (CST)	CST	salamence			Stage 2
+Salamence_GX (CST)	CST	salamence_gx			Stage 2 (GX)
+Sceptile (CST)	CST	sceptile			Stage 2
+Seedot (CST)	CST	seedot			Basic
+shelgon (CST)	CST	shelgon			Stage 1
+Shiftry-GX (CST)	CST	shiftry_gx			Stage 2 (GX)
+Shuppet (CST)	CST	shuppet			Basic
+Sky Pillar (CST)	CST	sky_pillar			Trainer - Stadium
+Slugma (CST)	CST	slugma			Basic
+Sneasel (CST)	CST	sneasel			Basic
+Stakataka-GX (CST)	CST	stakataka_gx			Basic (GX)
+Steven's Decision (CST)	CST	stevens_decision			Trainer - Supporter
+Swampert (CST)	CST	swampert			Stage 2
+Tate and Liza (CST)	CST	tate_and_liza			Trainer - Supporter
+Torchic (CST)	CST	torchic			Basic
+Treecko (CST)	CST	treecko			Basic
+Copycat (CST)	CST	copycat			Trainer - Supporter
+Drampa (CST)	CST	drampa			Basic
+Kingdra-GX (CST)	CST	kingdra_gx			Stage 2 (GX)
+Wooper (CST)	CST	wooper			Basic
+Quagsire (CST)	CST	quagsire			Stage 1
+Spinarak (CST)	CST	spinarak			Basic
+Ariados (CST)	CST	ariados			Stage 1

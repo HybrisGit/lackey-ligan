@@ -545,6 +545,8 @@
 	<set>SLG</set>
 	<set>CIN</set>
 	<set>UPR</set>
+	<set>FLI</set>
+	<set>CST</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
 	<set>GEN</set>
