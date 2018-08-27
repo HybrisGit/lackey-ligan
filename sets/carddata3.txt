@@ -79,3 +79,12 @@ Wooper (CST)	CST	wooper			Basic
 Quagsire (CST)	CST	quagsire			Stage 1
 Spinarak (CST)	CST	spinarak			Basic
 Ariados (CST)	CST	ariados			Stage 1
+Spinarak (LTH)	LTH	spinarak			Basic
+Hoppip (LTH)	LTH	hoppip-1			Basic
+Hoppip (LTH)	LTH	hoppip-2			Basic
+Skiploom (LTH)	LTH	skiploom			Stage 1
+Jumpluff (LTH)	LTH	jumpluff			Stage 2
+Natu (LTH)	LTH	natu			Basic
+Trumbeak (LTH)	LTH	trumbeak			Stage 1
+Lost Mixer (LTH)	LTH	lost_mixer			Trainer - Item
+Professor Elm's Lecture (LTH)	LTH	professor_elms_lecture_			Trainer - Supporter
