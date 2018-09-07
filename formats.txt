@@ -566,6 +566,7 @@
 	<set>UPR</set>
 	<set>FLI</set>
 	<set>CST</set>
+	<set>LTH</set>
 	<set>SMBSP</set>
 	<set>TK10</set>
 	<set>M6</set>

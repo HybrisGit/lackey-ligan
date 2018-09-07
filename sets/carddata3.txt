@@ -24,6 +24,7 @@ Ultra Recon Squad (FLI)	FLI	ultra_recon_squad			Trainer - Supporter
 Bonnie (FLI)	FLI	bonnie			Trainer - Supporter
 Zygarde_72 (FLI)	FLI	zygarde-72			Basic
 Pheromosa (FLI)	FLI	pheromosa			Basic
+Metal Frying Pan (FLI)	FLI	metal_frying_pan			Trainer - Item - Pokemon Tool
 Altaria-GX (CST)	CST	altaria_gx			Stage 1 (GX)
 Bagon (CST)	CST	bagon			Basic
 Banette (CST)	CST	banette			Stage 1
@@ -41,7 +42,7 @@ Electrode-GX (CST)	CST	electrode_gx			Stage 1 (GX)
 Forbidden Shrine (CST)	CST	forbidden_shrine			Trainer - Stadium
 Friend Ball (CST)	CST	friend_ball			Trainer - Item
 Grovyle (CST)	CST	grovyle			Stage 1
-Hussle Belt (CST)	CST	hussle_belt			Trainer - Item - Pokemon Tool
+Hustle Belt (CST)	CST	hussle_belt			Trainer - Item - Pokemon Tool
 Jirachi Prism Star (CST)	CST	jirachi_prism_star			Basic
 Latias Prism Star (CST)	CST	latias_prism_star			Basic
 Latios Prism Star (CST)	CST	latios_prism_star			Basic
@@ -59,6 +60,8 @@ Sableye (CST)	CST	sableye			Basic
 Salamence (CST)	CST	salamence			Stage 2
 Salamence_GX (CST)	CST	salamence_gx			Stage 2 (GX)
 Sceptile (CST)	CST	sceptile			Stage 2
+Scizor-GX (CST)	CST	scizor_gx			Stage 1 (GX)
+Scyther (CST)	CST	scyther			Basic
 Seedot (CST)	CST	seedot			Basic
 shelgon (CST)	CST	shelgon			Stage 1
 Shiftry-GX (CST)	CST	shiftry_gx			Stage 2 (GX)
@@ -79,12 +82,16 @@ Wooper (CST)	CST	wooper			Basic
 Quagsire (CST)	CST	quagsire			Stage 1
 Spinarak (CST)	CST	spinarak			Basic
 Ariados (CST)	CST	ariados			Stage 1
+Lotad (CST)	CST	lotad			Basic
+Lombre (CST)	CST	lombre			Stage 1
+Ludicolo (CST)	CST	ludicolo			Stage 2
 Spinarak (LTH)	LTH	spinarak			Basic
-Hoppip (LTH)	LTH	hoppip-1			Basic
-Hoppip (LTH)	LTH	hoppip-2			Basic
+Hoppip (LTH-1)	LTH	hoppip-1			Basic
+Hoppip (LTH-2)	LTH	hoppip-2			Basic
 Skiploom (LTH)	LTH	skiploom			Stage 1
 Jumpluff (LTH)	LTH	jumpluff			Stage 2
 Natu (LTH)	LTH	natu			Basic
 Trumbeak (LTH)	LTH	trumbeak			Stage 1
 Lost Mixer (LTH)	LTH	lost_mixer			Trainer - Item
-Professor Elm's Lecture (LTH)	LTH	professor_elms_lecture_			Trainer - Supporter
+Professor Elm's Lecture (LTH)	LTH	professor_elms_lecture			Trainer - Supporter
+Net Ball (LTH)	LTH	net_ball			Trainer - Item
