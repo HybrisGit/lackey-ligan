@@ -1,29 +1,31 @@
 Name	Set	ImageFile	Set #	Type	Stage	HP	Weakness	Resistance	Retreat Cost	Rarity	Text
-Malamar (FLI)	FLI	malamar			Stage 1
-Inkay (FLI)	FLI	inkay			Basic
-Zygarde-GX (FLI)	FLI	zygarde_gx			Basic (GX)
+Alolan Exeggutor (FLI)	FLI	alolan_exeggutor			Stage 1
 Buzzwole (FLI)	FLI	buzzwole			Basic
+Diancie Prism Star (FLI)	FLI	diancie_prism_star			Basic
+Dusk Mane Necrozma (FLI)	FLI	dusk_mane_necrozma			Basic
+Exeggcute (FLI)	FLI	exeggcute			Basic
 Froakie (FLI)	FLI	froakie			Basic
 Frogadier (FLI)	FLI	frogadier			Stage 1
 Greninja-GX (FLI)	FLI	greninja_gx			Stage 2 (GX)
-Ultra Necrozma-GX (FLI)	FLI	ultra_necrozma_gx			Basic (GX)
-Beast Ring (FLI)	FLI	beast_ring			Trainer - Item
+Inkay (FLI)	FLI	inkay			Basic
+Malamar (FLI)	FLI	malamar			Stage 1
+Naganadel-GX (FLI)	FLI	naganadel_gx			Stage 1 (GX)
+Pheromosa (FLI)	FLI	pheromosa			Basic
+Poipole (FLI)	FLI	poipole			Basic
 Rockruff (FLI)	FLI	rockruff			Basic
+Ultra Necrozma-GX (FLI)	FLI	ultra_necrozma_gx			Basic (GX)
+Volcanion Prism Star (FLI)	FLI	volcanion_prism_star			Basic
+Zygarde (FLI)	FLI	zygarde_peacemaker			Basic
+Zygarde_72 (FLI)	FLI	zygarde-72			Basic
+Zygarde-GX (FLI)	FLI	zygarde_gx			Basic (GX)
+Beast Ring (FLI)	FLI	beast_ring			Trainer - Item
 Beast Energy (FLI)	FLI	beast_energy			Energy - Special
 Mysterious Treasure (FLI)	FLI	mysterious_treasure			Trainer - Item
 Diantha (FLI)	FLI	diantha			Trainer - Supporter
-Diancie Prism Star (FLI)	FLI	diancie_prism_star			Basic
-Poipole (FLI)	FLI	poipole			Basic
-Naganadel-GX (FLI)	FLI	naganadel_gx			Stage 1 (GX)
 Unit Energy FDF (FLI)	FLI	unit_energy_fdf			Energy - Special
-Dusk Mane Necrozma (FLI)	FLI	dusk_mane_necrozma			Basic
 Ultra Space (FLI)	FLI	ultra_space			Trainer - Stadium
-Zygarde (FLI)	FLI	zygarde_peacemaker			Basic
-Volcanion Prism Star (FLI)	FLI	volcanion_prism_star			Basic
 Ultra Recon Squad (FLI)	FLI	ultra_recon_squad			Trainer - Supporter
 Bonnie (FLI)	FLI	bonnie			Trainer - Supporter
-Zygarde_72 (FLI)	FLI	zygarde-72			Basic
-Pheromosa (FLI)	FLI	pheromosa			Basic
 Metal Frying Pan (FLI)	FLI	metal_frying_pan			Trainer - Item - Pokemon Tool
 Altaria-GX (CST)	CST	altaria_gx			Stage 1 (GX)
 Bagon (CST)	CST	bagon			Basic
@@ -85,13 +87,72 @@ Ariados (CST)	CST	ariados			Stage 1
 Lotad (CST)	CST	lotad			Basic
 Lombre (CST)	CST	lombre			Stage 1
 Ludicolo (CST)	CST	ludicolo			Stage 2
-Spinarak (LTH)	LTH	spinarak			Basic
+Adventuring Satchel (LTH)	LTH	adventuring_satchel			Trainer - Item
+Aether Foundation Emloyee (LTH)	LTH	aether_foundation_employee			Trainer - Supporter
+Alolan Meowth (LTH)	LTH	alolan_meowth			Basic
+Alolan Ninetales-GX (LTH)	LTH	alolan_ninetales_gx			Basic (GX)
+Blacephalon-GX (LTH)	LTH	blacephalon_gx			Basic (GX)
+Blitzle (LTH)	LTH	blitzle			Basic
+Carbink (LTH)	LTH	Carbink			Basic
+Choice Helmet (LTH)	LTH	choice_helmet			Trainer - Item - Pokemon Tool
+Counter Gain (LTH)	LTH	counter_gain			Trainer - Item - Pokemon Tool
+Custom Catcher (LTH)	LTH	custom_catcher			Trainer - Item
+Ditto Prism Star (LTH)	LTH	ditto_prism_star			Basic
+Electric Power (LTH)	LTH	electric_power			Trainer - Item
+Espeon (LTH)	LTH	LTH	espeon			Stage 1
+Faba (LTH)	LTH	faba			Trainer - Supporter
+Flaaffy (LTH)	LTH	flaaffy			Stage 1
+Gardevoir (LTH)	LTH	gardevoir			Stage 2
+Genesect-GX (LTH)	LTH	genesect_gx			Basic (GX)
+Giratina (LTH)	LTH	giratina			Basic
+Granbull (LTH)	LTH	granbull			Stage 1
+Grovyle (LTH)	LTH	grovyle			Stage 1
+Heat Factory Prism Star (LTH)	LTH	heat_factory_prism_star			Trainer - Stadium
 Hoppip (LTH-1)	LTH	hoppip-1			Basic
 Hoppip (LTH-2)	LTH	hoppip-2			Basic
-Skiploom (LTH)	LTH	skiploom			Stage 1
 Jumpluff (LTH)	LTH	jumpluff			Stage 2
-Natu (LTH)	LTH	natu			Basic
-Trumbeak (LTH)	LTH	trumbeak			Stage 1
+Kahili (LTH)	LTH	kahili			Trainer - Stadium
+Kirlia (LTH)	LTH	Kirlia			Stage 1
+Life Forest Prism Star (LTH)	LTH	life_forest_prism_star			Trainer - Stadium
 Lost Mixer (LTH)	LTH	lost_mixer			Trainer - Item
-Professor Elm's Lecture (LTH)	LTH	professor_elms_lecture			Trainer - Supporter
+Lusamine Prism Star (LTH)	LTH	lusamine_prism_star			Trainer - Supporter
+Magcargo-GX (LTH)	LTH	magcargo_gx			Stage 1 (GX)
+Mareep (LTH-1)	LTH	mareep_1			Basic
+Mareep (LTH-2)	LTH	mareep_2			Basic
+Memory Energy (LTH)	LTH	memory_energy			Energy - Special
+Mimikyu-GX (LTH)	LTH	mimikyu_gx			Basic (GX)
+Mina (LTH)	LTH	mina			Trainer - Supporter
+Mix Herb (LTH)	LTH	mix_herb			Trainer - Item
+Moo Moo Milk (LTH)	LTH	moo_moo_milk			Trainer - Item
+Morty (LTH)	LTH	morty			Trainer - Supporter
+Naganadel (LTH)	LTH	naganadel			Stage 1
+Natu (LTH)	LTH	natu			Basic
 Net Ball (LTH)	LTH	net_ball			Trainer - Item
+Nincada (LTH)	LTH	nincada			Basic
+Ninjask (LTH)	LTH	ninjask			Stage 1
+Onix (LTH)	LTH	onix			Basic
+Poipole (LTH)	LTH	poipole			Basic
+Professor Elm's Lecture (LTH)	LTH	professor_elms_lecture			Trainer - Supporter
+Ralts (LTH)	LTH	ralts			Basic
+React Hammer (LTH)	LTH	react_hammer			Trainer - Item
+Sceptile-GX (LTH)	LTH	sceptile_gx			Stage 2 (GX)
+Shedinja (LTH)	LTH	shedinja			Stage 1
+Shuckle (LTH)	LTH	shuckle			Basic
+Shuckle-GX (LTH)	LTH	shuckle_gx			Basic (GX)
+Sightseer (LTH)	LTH	sightseer			Trainer - Stadium
+Skiploom (LTH)	LTH	skiploom			Stage 1
+Slugma (LTH)	LTH	slugma			Basic
+Snubbull (LTH)	LTH	snubbull			Basic
+Spell Tag (LTH)	LTH	spell_tag			Trainer - Item
+Spinarak (LTH)	LTH	spinarak			Basic
+Tapu Koko (LTH)	LTH	tapu_koko			Basic
+Thunder Mountain Prism Star (LTH)	LTH	thunder_mountain_prism_star			Trainer - Stadium
+Treecko (LTH)	LTH	treecko			Basic
+Trumbeak (LTH)	LTH	trumbeak			Stage 1
+Umbreon (LTH)	LTH	umbreon			Stage 1
+Unown (LTH-1)	LTH	unown_1			Basic
+Unown (LTH-2)	LTH	unown_2			Basic
+Unown (LTH-3)	LTH	unown_3			Basic
+Whitney (LTH)	LTH	whitney			Trainer - Supporter
+Zebstrika (LTH)	LTH	zebstrika			Stage 1
+Zeraora-GX (LTH)	LTH	zeraora_gx			Basic (GX)
