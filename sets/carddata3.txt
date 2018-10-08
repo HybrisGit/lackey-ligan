@@ -67,6 +67,7 @@ Scyther (CST)	CST	scyther			Basic
 Seedot (CST)	CST	seedot			Basic
 shelgon (CST)	CST	shelgon			Stage 1
 Shiftry-GX (CST)	CST	shiftry_gx			Stage 2 (GX)
+Shrine of Punishment (CST)	CST	shrine_of_punishment			Trainer - Stadium
 Shuppet (CST)	CST	shuppet			Basic
 Sky Pillar (CST)	CST	sky_pillar			Trainer - Stadium
 Slugma (CST)	CST	slugma			Basic
