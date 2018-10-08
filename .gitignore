@@ -26,3 +26,4 @@ sets/setimages/*
 #don't ignore these set images
 !sets/setimages/FLI
 !sets/setimages/CST
+!sets/setimages/LTH
