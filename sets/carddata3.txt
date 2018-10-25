@@ -27,6 +27,7 @@ Ultra Space (FLI)	FLI	ultra_space			Trainer - Stadium
 Ultra Recon Squad (FLI)	FLI	ultra_recon_squad			Trainer - Supporter
 Bonnie (FLI)	FLI	bonnie			Trainer - Supporter
 Metal Frying Pan (FLI)	FLI	metal_frying_pan			Trainer - Item - Pokemon Tool
+Acro Bike (CST)	CST	acro_bike			Trainer - Item
 Altaria-GX (CST)	CST	altaria_gx			Stage 1 (GX)
 Apricorn Maker (CST)	CST	apricorn_maker			Trainer - Supporter
 Bagon (CST)	CST	bagon			Basic
