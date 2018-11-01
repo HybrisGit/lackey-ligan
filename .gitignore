@@ -24,6 +24,5 @@ sets/carddata2.txt
 #ignore all set images by default
 sets/setimages/*
 #don't ignore these set images
-!sets/setimages/FLI
 !sets/setimages/CST
 !sets/setimages/LTH
