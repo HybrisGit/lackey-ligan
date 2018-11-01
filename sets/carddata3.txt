@@ -27,7 +27,9 @@ Ultra Space (FLI)	FLI	ultra_space			Trainer - Stadium
 Ultra Recon Squad (FLI)	FLI	ultra_recon_squad			Trainer - Supporter
 Bonnie (FLI)	FLI	bonnie			Trainer - Supporter
 Metal Frying Pan (FLI)	FLI	metal_frying_pan			Trainer - Item - Pokemon Tool
+Acro Bike (CST)	CST	acro_bike			Trainer - Item
 Altaria-GX (CST)	CST	altaria_gx			Stage 1 (GX)
+Apricorn Maker (CST)	CST	apricorn_maker			Trainer - Supporter
 Bagon (CST)	CST	bagon			Basic
 Banette (CST)	CST	banette			Stage 1
 Banette-GX (CST)	CST	banette_gx			Stage 1 (GX)
@@ -46,6 +48,7 @@ Friend Ball (CST)	CST	friend_ball			Trainer - Item
 Grovyle (CST)	CST	grovyle			Stage 1
 Hustle Belt (CST)	CST	hussle_belt			Trainer - Item - Pokemon Tool
 Jirachi Prism Star (CST)	CST	jirachi_prism_star			Basic
+TV Reporter (CST)	CST	tv_reporter			Trainer - Supporter
 Latias Prism Star (CST)	CST	latias_prism_star			Basic
 Latios Prism Star (CST)	CST	latios_prism_star			Basic
 Lisia (CST)	CST	lisia			Trainer - Supporter
@@ -111,6 +114,7 @@ Grovyle (LTH)	LTH	grovyle			Stage 1
 Heat Factory Prism Star (LTH)	LTH	heat_factory_prism_star			Trainer - Stadium
 Hoppip (LTH-1)	LTH	hoppip-1			Basic
 Hoppip (LTH-2)	LTH	hoppip-2			Basic
+Judge (LTH)	LTH	judge			Trainer - Supporter
 Jumpluff (LTH)	LTH	jumpluff			Stage 2
 Kahili (LTH)	LTH	kahili			Trainer - Stadium
 Kirlia (LTH)	LTH	Kirlia			Stage 1
