@@ -82,13 +82,13 @@
 	<set>AOR</set>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>BWBSP</set>
 	<set>XYBSP</set>
 	<set>DRV</set>
 	<set>DCR</set>
-	<set>GEN</set>
 	<set>KSS</set>
 	<set>TK5</set>
 	<set>TK6</set>
@@ -123,17 +123,18 @@
 	<set>AOR</set>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>EVO</set>
 	<set>SUM</set>
 	<set>GRI</set>
+	<set>BUS</set>
 	<set>BWBSP</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
 	<set>DRV</set>
 	<set>DCR</set>
-	<set>GEN</set>
 	<set>KSS</set>
 	<set>TK5</set>
 	<set>TK6</set>
@@ -170,6 +171,7 @@
 	<set>AOR</set>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>EVO</set>
@@ -179,12 +181,13 @@
 	<set>SLG</set>
 	<set>CIN</set>
 	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
 	<set>BWBSP</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
 	<set>DRV</set>
 	<set>DCR</set>
-	<set>GEN</set>
 	<set>KSS</set>
 	<set>TK5</set>
 	<set>TK6</set>
@@ -192,12 +195,70 @@
 	<set>TK8</set>
 	<set>TK9</set>
 	<set>TK10</set>
+	<set>TK11</set>
 	<set>M1</set>
 	<set>M2</set>
 	<set>M3</set>
 	<set>M4</set>
 	<set>M5</set>
 	<set>M6</set>
+</format>
+
+<format>
+	<label>(2018-2019) Expanded-BLW-on</label>
+	<set>BLW</set>
+	<set>EPO</set>
+	<set>NVI</set>
+	<set>NXD</set>
+	<set>DEX</set>
+	<set>DRX</set>
+	<set>BCR</set>
+	<set>PLS</set>
+	<set>PLF</set>
+	<set>PLB</set>
+	<set>LTR</set>
+	<set>XY</set>
+	<set>FLF</set>
+	<set>FFI</set>
+	<set>PHF</set>
+	<set>PRC</set>
+	<set>ROS</set>
+	<set>AOR</set>
+	<set>BKT</set>
+	<set>BKP</set>
+	<set>GEN</set>
+	<set>FCO</set>
+	<set>STS</set>
+	<set>EVO</set>
+	<set>SUM</set>
+	<set>GRI</set>
+	<set>BUS</set>
+	<set>SLG</set>
+	<set>CIN</set>
+	<set>UPR</set>
+	<set>FLI</set>
+	<set>CES</set>
+	<set>DRM</set>
+	<set>BWBSP</set>
+	<set>XYBSP</set>
+	<set>SMBSP</set>
+	<set>DRV</set>
+	<set>DCR</set>
+	<set>KSS</set>
+	<set>TK5</set>
+	<set>TK6</set>
+	<set>TK7</set>
+	<set>TK8</set>
+	<set>TK9</set>
+	<set>TK10</set>
+	<set>TK11</set>
+	<set>M1</set>
+	<set>M2</set>
+	<set>M3</set>
+	<set>M4</set>
+	<set>M5</set>
+	<set>M6</set>
+	<set>M7</set>
 </format>
 
 <format>
@@ -495,11 +556,11 @@
 	<set>AOR</set>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>XYBSP</set>
 	<set>DCR</set>
-	<set>GEN</set>
 	<set>KSS</set>
 	<set>TK6</set>
 	<set>TK7</set>
@@ -516,15 +577,16 @@
 	<set>AOR</set>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>EVO</set>
 	<set>SUM</set>
 	<set>GRI</set>
+	<set>BUS</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
 	<set>DCR</set>
-	<set>GEN</set>
 	<set>TK8</set>
 	<set>TK9</set>
 	<set>TK10</set>
@@ -536,6 +598,7 @@
 	<label>(2017-2018) Standard-BKT-on</label>
 	<set>BKT</set>
 	<set>BKP</set>
+	<set>GEN</set>
 	<set>FCO</set>
 	<set>STS</set>
 	<set>EVO</set>
@@ -547,17 +610,18 @@
 	<set>UPR</set>
 	<set>FLI</set>
 	<set>CST</set>
+	<set>CES</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
-	<set>GEN</set>
 	<set>TK9</set>
 	<set>TK10</set>
+	<set>TK11</set>
 	<set>M5</set>
 	<set>M6</set>
 </format>
 
 <format>
-	<label>(2018-2019) Standard-SM-on</label>
+	<label>(2018-2019) Standard-SUM-on</label>
 	<set>SUM</set>
 	<set>GRI</set>
 	<set>BUS</set>
@@ -567,9 +631,13 @@
 	<set>FLI</set>
 	<set>CST</set>
 	<set>LTH</set>
+	<set>CES</set>
+	<set>DRM</set>
 	<set>SMBSP</set>
 	<set>TK10</set>
+	<set>TK11</set>
 	<set>M6</set>
+	<set>M7</set>
 </format>
 
 </formatdefinitions>
