@@ -239,6 +239,7 @@
 	<set>FLI</set>
 	<set>CES</set>
 	<set>DRM</set>
+	<set>LOT</set>
 	<set>BWBSP</set>
 	<set>XYBSP</set>
 	<set>SMBSP</set>
@@ -633,6 +634,7 @@
 	<set>LTH</set>
 	<set>CES</set>
 	<set>DRM</set>
+	<set>LOT</set>
 	<set>SMBSP</set>
 	<set>TK10</set>
 	<set>TK11</set>
